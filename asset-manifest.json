@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miappenreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/miappenreact/static/js/main.d98f03b5.chunk.js",
+    "main.js.map": "/miappenreact/static/js/main.d98f03b5.chunk.js.map",
+    "runtime-main.js": "/miappenreact/static/js/runtime-main.0dfdd14a.js",
+    "runtime-main.js.map": "/miappenreact/static/js/runtime-main.0dfdd14a.js.map",
+    "static/js/2.2ebf5461.chunk.js": "/miappenreact/static/js/2.2ebf5461.chunk.js",
+    "static/js/2.2ebf5461.chunk.js.map": "/miappenreact/static/js/2.2ebf5461.chunk.js.map",
+    "index.html": "/miappenreact/index.html",
+    "precache-manifest.543f7b70be55efbaa792868f6f3f609c.js": "/miappenreact/precache-manifest.543f7b70be55efbaa792868f6f3f609c.js",
+    "service-worker.js": "/miappenreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/miappenreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ebf5461.chunk.js.LICENSE.txt": "/miappenreact/static/js/2.2ebf5461.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/miappenreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfdd14a.js",
+    "static/js/2.2ebf5461.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d98f03b5.chunk.js"
+  ]
+}
